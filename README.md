@@ -1,1 +1,4 @@
-<code><img src="[https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png](https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/FU_BNR_01_icon.png/revision/latest/scale-to-width-down/230?cb=20241008161433)" alt="c"/></code>
+
+<p align="center">
+  <img src="./images/dbd-banner.png" alt="Dead by Daylight Banner" width="100%">
+</p>
